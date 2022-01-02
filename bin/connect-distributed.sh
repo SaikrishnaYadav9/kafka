@@ -41,5 +41,5 @@ case $COMMAND in
   *)
     ;;
 esac
-
+nkjsdhfklhgsi
 exec $(dirname $0)/kafka-run-class.sh $EXTRA_ARGS org.apache.kafka.connect.cli.ConnectDistributed "$@"
